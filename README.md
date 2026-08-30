@@ -1,11 +1,24 @@
-Hi, I'm Brian 👋
+# Hi, I'm Brian 👋
 
 Full-Stack Developer building with the Next.js ecosystem.
 
-Tech Stack
-Next.js · React · TypeScript · JavaScript · Node.js · Tailwind CSS
+## Tech Stack
 
-Backend & Database
-PostgreSQL · Prisma · Supabase · Docker
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Node.js
+- Tailwind CSS
 
-Reach me: [waititubrian9@gmail.com] · [https://www.linkedin.com/in/muraya-brian/]
+## Backend & Database
+
+- PostgreSQL
+- Prisma
+- Supabase
+- Docker
+
+## Reach Me
+
+- Email: [waititubrian9@gmail.com](mailto:waititubrian9@gmail.com)
+- LinkedIn: [linkedin.com/in/muraya-brian](https://www.linkedin.com/in/muraya-brian/)
