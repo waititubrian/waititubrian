@@ -18,6 +18,13 @@ Full-Stack Developer building with the Next.js ecosystem.
 - Supabase
 - Docker
 
+## Authentication
+
+- Supabase Auth
+- Auth.js (NextAuth)
+- Clerk
+- Better Auth
+
 ## Reach Me
 
 - Email: [waititubrian9@gmail.com](mailto:waititubrian9@gmail.com)
