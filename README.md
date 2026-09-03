@@ -1,29 +1,18 @@
 # Hi, I'm Brian 👋
 
-Full-Stack Developer building with the Next.js ecosystem.
+Full-Stack Developer building with the Next.js ecosystem, and QA Engineer testing enterprise applications.
 
-## Tech Stack
+## Development
 
-- Next.js
-- React
-- TypeScript
-- JavaScript
-- Node.js
-- Tailwind CSS
+- Next.js · React · TypeScript · Node.js
+- PostgreSQL · Prisma · Supabase
 
-## Backend & Database
+## QA & Testing
 
-- PostgreSQL
-- Prisma
-- Supabase
-- Docker
-
-## Authentication
-
-- Supabase Auth
-- Auth.js (NextAuth)
-- Clerk
-- Better Auth
+- Java · JavaScript/TypeScript · Python
+- Selenium · Playwright · Appium · RestAssured
+- Cypress · Jest · Postman
+- Manual & Exploratory Testing
 
 ## Reach Me
 
