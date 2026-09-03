@@ -1,6 +1,6 @@
 # Hi, I'm Brian 👋
 
-Full-Stack Developer building with the Next.js ecosystem, and QA Engineer testing enterprise applications.
+Full-Stack Developer building with the Next.js ecosystem, with a strong background in QA Engineering and test automation.
 
 ## Development
 
