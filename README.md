@@ -4,7 +4,7 @@ Full-Stack Developer building with the Next.js ecosystem, with a strong backgrou
 
 ## Development
 
-- Next.js · React · TypeScript · Node.js
+- Next.js · React · JavaScript · TypeScript · Node.js
 - PostgreSQL · Prisma · Supabase
 
 ## QA & Testing
